@@ -1,0 +1,14 @@
+.menu-tags{
+    list-style: none;
+  margin-right: 50px;
+  font-size: 25px;
+  font-weight: 600;
+  color: rgb(170, 41, 71);
+  cursor: pointer;
+  padding: 8px;
+  text-decoration: none;
+  
+}
+.menu-tags:hover{
+    color:blanchedalmond
+}
